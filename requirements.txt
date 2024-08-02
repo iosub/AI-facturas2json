@@ -6,7 +6,12 @@ pdf2image
 numpy
 pandas
 Pillow
+<<<<<<< HEAD
 aiohttp 
 
 https://github.com/VikParuchuri/marker/issues/162
 
+=======
+aiohttp
+plotly
+>>>>>>> 82d8fbd1546ec3d68706c74895bea2979ad27b56
