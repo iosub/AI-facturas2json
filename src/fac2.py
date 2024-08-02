@@ -15,7 +15,7 @@ from concurrent.futures import ThreadPoolExecutor
 import warnings
 
 # Initialize Streamlit page
-st.set_page_config(page_title="Extractor de Facturas", page_icon="📄", layout="wide")
+st.set_page_config(page_title="Extractorii de Facturas", page_icon="📄", layout="wide")
 
 # Load models and initialize them
 @st.cache_resource
